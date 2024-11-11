@@ -1,7 +1,7 @@
 
+![Profile picture ](https://github.com/Diegonzaleznavas/cv1/blob/main/headshot2.png?raw=true) 
 
-
-#**Diego Gonzalez Navas**
+# Diego Nicolas Gonzalez Navas
 
 **Customer Advisor at Ferretería E.P.A. C.A. Venezuela**
 
@@ -13,7 +13,7 @@
 
 ### **Professional Profile**
 
-Professional with over 9 years of experience in customer service in the hardware sector. Highly skilled in information technology, customer service, and proficient in English and French.
+Professional with over 9 years of experience in customer service in the hardware sector. Highly skilled in information technology, customer service, and proficient in English and bit of French.
 
 ---
 
@@ -39,6 +39,7 @@ _June 2015 - Present (9 years 6 months)_
 - Introduction to Cybersecurity
 - Fundamentals of Digital Marketing
 - "Introduction to the Internet of Everything"
+- 
 
 ---
 
@@ -47,6 +48,11 @@ _June 2015 - Present (9 years 6 months)_
 - English
 - Information Technology
 - Customer Service
+- Microsoft Office
+- Microsoft Windows
+- Linux (basic knowledge of Arch an Debian based distros)
+- Cisco Packet Tracer
+- Basic HTML,CSS & Javascript
 
 ---
 
