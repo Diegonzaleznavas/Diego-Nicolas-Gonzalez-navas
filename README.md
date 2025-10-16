@@ -22,7 +22,16 @@ Professional with over 9 years of experience in customer service in the hardware
 
 **Ferretería Epa**  
 _Customer Advisor_  
-_June 2015 - Present (9 years 6 months)_
+_June 2015 - June 2025 (10 years )_
+
+- Providing specialized advice to customers on products and services.
+- Efficient management and resolution of customer inquiries and complaints.
+- Training new employees in customer service and use of internal systems.
+
+---
+**RST Sinatalations**  
+_Technical concierge / reports_  
+_June 2015 - October 2025 (10 years )_
 
 - Providing specialized advice to customers on products and services.
 - Efficient management and resolution of customer inquiries and complaints.
